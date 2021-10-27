@@ -89,3 +89,63 @@
 
 # Unit Testing
  - A testing strategy in which the smallest unit of testable code is isolated from the rest of the software and tested to determine if it functions properly.
+
+https://saat-network.ch/2013/02/scrum-glossary-62-scrum-related-terms-in-50-words-or-less-each/
+
+# TDD Test Driven Development 	
+ - Also known as Red-Green-Refactor. 1) Write a failing unit test (red) 2) Code a first draft to turn the test green, keeping all other tests green). 3) “Refactor” to create an improved a final draft. TDD improves productivity by reducing misunderstood requirements, rework, and escaped errors.
+ - 
+# Scrum Master 	
+ - A servant leader who helps Product Owner and Development Team perform better. Coaches & Facilitates. Removes impediments. Sometimes called the voice of common sense.
+ - 
+# Scrum Team 	
+ - All three roles together make up the Scrum Team. Sometimes called the Whole Team
+ 
+# Selected Product Backlog 	
+ - The subset of (by definition top priority) PBIs that the Team reasonably believes it can complete during the Sprint. (Often mistakenly called the Sprint Backlog).
+
+# Sprint 	
+ - A timeboxed period for completing work. A Sprint consists of planning, doing and review, both of the results and of how the Team worked. Maximum timebox is 30 days. 2 weeks is common. All forecast work should be Done by the end of the Sprint.
+# Sprint Backlog 	
+ - The Selected Product Backlog, enriched with a technical concept and a task planning. The Sprint Backlog represents the Team’s concept for achieve the goal set during Sprint Planning 1.
+# Sprint Contract 
+ - The agreement between Product Owner and Team at the beginning of a sprint: Time (Sprint Duration), Cost (Team Composition), Quality (Definition of Done) and Scope (Selected Product Backlog). If the team should fail to deliver on any aspect, it should fail on Scope.
+# Sprint Planning 	
+ - Sprint planning addresses 2 questions: What and How. The meeting is divided in two halves, SP 1 and SP 2 for addressing these questions
+# Sprint Planning 1 (SP1) 	
+ - The Product Owner and Team agree on what will be developed during this sprint. The PO defines priorities, the Team estimates how much is doable. So both parties influence the final agreement: the Selected Product Backlog and the Sprint Goal
+# Sprint Planning 2 (SP2) 	
+ - The Team decides how to solve the probelm accepted in SP1. The result is a technical concept and a task planning, often in the form of a task board.
+# Sprint Review 	
+ - The Team and Product Owner come together to inspect and adapt the product, based on Done functionality. They will review what has and has not been completed, and reflect on how to change the Product Backlog before the next sprint planning
+
+# Definition of Done (DoD)
+ - An agreement on what ‘this Story is done,’ actually means. Helps assure Internal and External Quality for each Story. Often expressed as a checklist to be completed before submitting the Story to the P-O. The Definition of Done applies to individual Stories, not to Tasks or the overall release.
+
+# Done (for a feature)
+ - A binary state. Either a Story is completed according to the Definition of Done, or not.
+
+# Estimate
+ - A Team’s best guess at the size, complexity or time involved to convert a PBI into a piece of finished functionality. An estimate is not a commitment.
+
+# Forecast
+ - A Team’s best guess at how much finished functionality it can deliver by the end of a Sprint. The team is normally expected to respect all the terms of the Sprint Contract.
+
+# Impediment
+ - Anything which slows the team down or prevents someone from working. Although the Scrum Master is charged with removing impediments and all Scrum meetings provide regular opportunties to recognize them, impediments can be identified and eliminated at any time by anyone.
+
+# Must
+ - Absolutely required, or else! The Product Owner must attend Sprint Planning 1, otherwise the meeting cannot be held.
+
+# PBI
+ - Product Backlog Item
+
+# Priority
+ - Sequence – which item comes first, second, third, etc. The term priority is deprecated because a) it contains emotional overtones and b) two items could have the same priority, but must a have a unique place in line.
+
+# Product Backlog
+ - The single source of requirements for the product under development. It consists of functional and non-functional requirements. It is not used to plan work or define intermediate artifacts, like a specification, which have no value for the customer or user.
+
+# Product Owner
+ - A servant leader who guides the Development Team to produce customer visible value. Sometimes called the Voice of the Customer (or User), the role represents all interests outside the Development Team to the Team.
+
