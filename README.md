@@ -83,3 +83,9 @@
 
 # CRM - Customer Relationship Management
  - https://www.youtube.com/watch?v=6s0xs2_9hes
+
+# Technical Debt
+ - A concept in programming that reflects the extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution.
+
+# Unit Testing
+ - A testing strategy in which the smallest unit of testable code is isolated from the rest of the software and tested to determine if it functions properly.
